@@ -1,0 +1,35 @@
+h1 {
+  color: #2d8659;
+  font-family: fantasy;
+  text-align: center;
+}
+
+p {
+  font-size: 17px;
+}
+
+ul {
+  line-height: normal;
+  color: purple;
+}
+
+ol {
+  color: #33cccc;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+#block1 {
+  float: left;
+  padding: 80px;
+  margin: 40px;
+}
+
+#block2 {
+  float: right;
+  padding: 80px;
+  margin: 40px;
+}
